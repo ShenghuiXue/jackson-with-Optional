@@ -1,0 +1,10 @@
+# An employee record
+name: Martin D'vloper
+# job: Developer
+# skill: 1
+employed: True
+languages:
+  perl: 5
+  python: 2
+  pascal: 0
+education: kU
