@@ -50,6 +50,4 @@ public class Employee {
 	public Optional<String> getEducation() {
 		return education;
 	}
-	
-	
 }
